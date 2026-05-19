@@ -26,11 +26,11 @@ This is not a one to one port.
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/scratch-blocks">Turbowarp Blocks</a>
 
-<h3>Both of these links take you to Bug_Invasion</h3>
+<h3>Both of these links take you to The_Game_Of_Trusters</h3>
 
-<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Bug_Invasion">Bug_Invasion Repository Page</a>
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Game_Of_Trusters">The_Game_Of_Trusters Repository Page</a>
 
-<a href="https://daniel-hanrahan-tools-and-games.github.io/Bug_Invasion">Bug_Invasion ReadMe Page</a>
+<a href="https://daniel-hanrahan-tools-and-games.github.io/The_Game_Of_Trusters">The_Game_Of_Trusters ReadMe Page</a>
 
 
 
